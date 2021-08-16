@@ -1,0 +1,17 @@
+manchu {
+	-ms-writing-mode: tb-lr; /* for IE */
+	-webkit-writing-mode: vertical-lr; /* for Webkit */
+	writing-mode: vertical-lr;
+	text-orientation: sideways;
+	-webkit-text-orientation: sideways; /* for Webkit */
+	}
+
+#mncbox {
+    height: 600px;
+    font-size: 30px;
+}
+
+:lang(mnc) { 
+    font-family: "Mongolian White";
+    font-size: 50px;
+}
