@@ -9224,6 +9224,8 @@ manchu {
 
 #mncbox {
     height: 600px;
+    overflow-x: auto;
+    overflow-y: auto;
     font-size: 30px;
 }
 
